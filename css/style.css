@@ -10,7 +10,7 @@ html {
 
 .promo {
     height: 800px;
-    background: url('../images/bg/main_bg.jpg') center center/cover no-repeat;
+    background: url('../images/waiting/main_bg.png') center center/cover no-repeat;
     padding: 39px 0 62px;
 }
 
@@ -217,7 +217,7 @@ h1.title {
 
 .finish {
     min-height: 447px;
-    padding: 86px 0 79px;background: url('../images/bg/second_bg.png') center center/cover no-repeat;
+    padding: 86px 0 79px;background: url('../images/waiting/second_bg.png') center center/cover no-repeat;
 }
 
 .finish .finish_wrapper {
